@@ -10,3 +10,5 @@ console.log(userColor);
 document.getElementById('hello').innerHTML = userName;
 
 document.getElementById('pwd').innerHTML = userName+userLastName+userColor+22;
+
+
