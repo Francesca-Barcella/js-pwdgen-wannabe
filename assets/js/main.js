@@ -1,3 +1,7 @@
+/***************************** 
+ Versione Base
+******************************/
+
 let userName = prompt('quale è il tuo nome?');
 /* console.log(userName) */
 
@@ -8,5 +12,3 @@ let userColor = prompt('quale è il tuo colore preferito?');
 //console.log(userColor)
 
 document.getElementById('pwd').innerHTML = userName+userLastName+userColor+22;
-
-document.getElementById('hello').innerHTML = userName;
