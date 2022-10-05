@@ -6,3 +6,5 @@ console.log(user_lastname)
 
 let user_color = prompt('quale è il tuo colore preferito?')
 console.log(user_color)
+
+document.getElementById('pwd').innerHTML = user_name+user_lastname+user_color+22
