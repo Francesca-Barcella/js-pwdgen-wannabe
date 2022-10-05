@@ -1,10 +1,10 @@
-let user_name = prompt('quale è il tuo nome?')
-/* console.log(user_name) */
+let usernam = prompt('quale è il tuo nome?');
+/* console.log(usernam) */
 
-let user_lastname = prompt('quale è il tuo cognome?')
-//console.log(user_lastname)
+let userLastName = prompt('quale è il tuo cognome?');
+//console.log(userLastName)
 
-let user_color = prompt('quale è il tuo colore preferito?')
-//console.log(user_color)
+let userColor = prompt('quale è il tuo colore preferito?');
+//console.log(userColor)
 
-document.getElementById('pwd').innerHTML = user_name+user_lastname+user_color+22
+document.getElementById('pwd').innerHTML = usernam+userLastName+userColor+22;
