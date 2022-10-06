@@ -11,4 +11,9 @@ document.getElementById('hello').innerHTML = userName;
 
 document.getElementById('pwd').innerHTML = userName+userLastName+userColor+22;
 
+document.getElementById('pwd_separate').innerHTML = userName + ' ' + userLastName + ' ' + userColor + ' ' + 22;
+
+
+
+
 
